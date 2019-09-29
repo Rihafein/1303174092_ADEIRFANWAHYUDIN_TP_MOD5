@@ -1,0 +1,54 @@
+{
+  "Home":{
+    "Nama" : "Ade Irfan Wahyudin"
+    "Nim"  : "1303174092"
+    "Kelas": "IT-41-02"
+  },
+  "About":{
+    "My name is Ade Irfan Wahyudin, i was born in cirebon, Juni 22th 1999. Currentely, i live in Jalan Sutera indah no 1, mengger, Bandung "
+  },
+  "Hobies":[
+    {
+      "1" : "Playing Game"
+    },
+    {
+      "2" : "Watching Movie"
+    },
+    {
+      "3" : "Cycling"
+    }
+  ],
+  "Skills":[
+    {
+      "1" : "Editing"
+    },
+    {
+      "2" : "Debate"
+    },
+    {
+      "3" : "Gaming"
+    }
+  ],
+  "Education":[
+    {
+      "1" : "SD SDN 2 KARANG WANGI"
+    },
+    {
+      "2" : "SMP PAKET B-AL HIDAYAH"
+    },
+    {
+      "3" : "SMA SMA-IT NURUSHIDDIQ"
+    }
+  ],
+  "Experience":[
+    {
+      "1" : "HMIT members of the information and communication"
+    },
+    {
+      "2" : "Student council member of education"
+    },
+    {
+      "3" : "Chief executive of new santri orientation"
+    }
+  ],
+}
